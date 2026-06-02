@@ -1,0 +1,17 @@
+"Var1","Var2","Freq"
+"Endothelial","control",156
+"Fibroblast","control",0
+"Lymphocyte","control",10
+"Macrophage","control",4
+"Pericyte","control",63
+"Unknown1","control",39
+"Unknown2","control",19
+"Vascular Smooth Muscle","control",153
+"Endothelial","disease",188
+"Fibroblast","disease",249
+"Lymphocyte","disease",248
+"Macrophage","disease",948
+"Pericyte","disease",33
+"Unknown1","disease",0
+"Unknown2","disease",0
+"Vascular Smooth Muscle","disease",3939

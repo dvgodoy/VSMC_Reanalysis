@@ -1,0 +1,20 @@
+"donor_id","condition2","disease_subtype","celltype","n_cells","prop"
+"751","disease","symptomatic","Endothelial",97,0.0241293532338308
+"751","disease","symptomatic","Fibroblast",12,0.00298507462686567
+"751","disease","symptomatic","Lymphocyte",60,0.0149253731343284
+"751","disease","symptomatic","Macrophage",203,0.0504975124378109
+"751","disease","symptomatic","Pericyte",7,0.00174129353233831
+"751","disease","symptomatic","Vascular Smooth Muscle",3641,0.905721393034826
+"826","disease","symptomatic","Endothelial",91,0.0574132492113565
+"826","disease","symptomatic","Fibroblast",237,0.149526813880126
+"826","disease","symptomatic","Lymphocyte",188,0.118611987381703
+"826","disease","symptomatic","Macrophage",745,0.470031545741325
+"826","disease","symptomatic","Pericyte",26,0.016403785488959
+"826","disease","symptomatic","Vascular Smooth Muscle",298,0.18801261829653
+"C7","control","control","Endothelial",156,0.351351351351351
+"C7","control","control","Lymphocyte",10,0.0225225225225225
+"C7","control","control","Macrophage",4,0.00900900900900901
+"C7","control","control","Pericyte",63,0.141891891891892
+"C7","control","control","Unknown1",39,0.0878378378378378
+"C7","control","control","Unknown2",19,0.0427927927927928
+"C7","control","control","Vascular Smooth Muscle",153,0.344594594594595

@@ -1,0 +1,17 @@
+"celltype","qc_band","n","prop"
+"Endothelial","higher_complexity",248,0.720930232558139
+"Endothelial","lower_complexity",96,0.27906976744186
+"Fibroblast","higher_complexity",235,0.943775100401606
+"Fibroblast","lower_complexity",14,0.0562248995983936
+"Lymphocyte","higher_complexity",122,0.472868217054264
+"Lymphocyte","lower_complexity",136,0.527131782945736
+"Macrophage","higher_complexity",729,0.765756302521008
+"Macrophage","lower_complexity",223,0.234243697478992
+"Pericyte","higher_complexity",83,0.864583333333333
+"Pericyte","lower_complexity",13,0.135416666666667
+"Unknown1","higher_complexity",32,0.82051282051282
+"Unknown1","lower_complexity",7,0.179487179487179
+"Unknown2","higher_complexity",13,0.684210526315789
+"Unknown2","lower_complexity",6,0.315789473684211
+"Vascular Smooth Muscle","higher_complexity",2785,0.680596285434995
+"Vascular Smooth Muscle","lower_complexity",1307,0.319403714565005

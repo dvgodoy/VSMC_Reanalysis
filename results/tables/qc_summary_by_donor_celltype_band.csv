@@ -1,0 +1,60 @@
+"donor_id","condition2","biosample_id","celltype","qc_band","n","median_nCount","median_nFeature","median_percent_mt","median_complexity","median_complexity_resid"
+"751","disease","Symptomatic carotid plaque 1A","Endothelial","higher_complexity",38,1978.5,1537.5,0,0.804316872527982,0.0331647732196841
+"751","disease","Symptomatic carotid plaque 1A","Endothelial","lower_complexity",9,1526,723,0,0.467305524239008,-0.120665980291731
+"751","disease","Symptomatic carotid plaque 1A","Fibroblast","higher_complexity",6,2185,1845.5,0,0.847330730539124,0.0445152003536388
+"751","disease","Symptomatic carotid plaque 1A","Lymphocyte","higher_complexity",16,1367.5,1051,0.0232450023759156,0.730872256212383,0.0119297433587464
+"751","disease","Symptomatic carotid plaque 1A","Lymphocyte","lower_complexity",15,1442,653,0,0.461190168175938,-0.116138587108185
+"751","disease","Symptomatic carotid plaque 1A","Macrophage","higher_complexity",50,1830.5,1400.5,0,0.765375598687396,0.0408233218394876
+"751","disease","Symptomatic carotid plaque 1A","Macrophage","lower_complexity",51,1525,707,0,0.463678516228748,-0.110282550097905
+"751","disease","Symptomatic carotid plaque 1A","Pericyte","higher_complexity",2,1863.5,1438,0,0.773855228862774,0.0599670731000489
+"751","disease","Symptomatic carotid plaque 1A","Pericyte","lower_complexity",1,2159,1043,0.0669344037305564,0.483094025011579,-0.19250689785575
+"751","disease","Symptomatic carotid plaque 1A","Vascular Smooth Muscle","higher_complexity",1292,1778,1346.5,0,0.764200822204925,0.0450460046410706
+"751","disease","Symptomatic carotid plaque 1A","Vascular Smooth Muscle","lower_complexity",550,1534.5,710,0,0.465276122310148,-0.119159479997947
+"751","disease","Symptomatic carotid plaque 1B","Endothelial","higher_complexity",40,2112,1659.5,0,0.819736777445064,0.0259544388918759
+"751","disease","Symptomatic carotid plaque 1B","Endothelial","lower_complexity",10,1517.5,707,0,0.469382656238308,-0.114425545207274
+"751","disease","Symptomatic carotid plaque 1B","Fibroblast","higher_complexity",6,2138,1808.5,0,0.836648053628815,0.0327899423432649
+"751","disease","Symptomatic carotid plaque 1B","Lymphocyte","higher_complexity",14,1252.5,807,0,0.599083015974109,0.0091225449788626
+"751","disease","Symptomatic carotid plaque 1B","Lymphocyte","lower_complexity",15,1512,697,0,0.457627118644068,-0.115775245259678
+"751","disease","Symptomatic carotid plaque 1B","Macrophage","higher_complexity",47,1852,1450,0,0.754327563249001,0.0300966645254494
+"751","disease","Symptomatic carotid plaque 1B","Macrophage","lower_complexity",55,1470,674,0,0.464021519838601,-0.118992936866479
+"751","disease","Symptomatic carotid plaque 1B","Pericyte","higher_complexity",3,2163,1641,0,0.791881918819188,0.00300902556256571
+"751","disease","Symptomatic carotid plaque 1B","Pericyte","lower_complexity",1,1950,947,0.0763941963668913,0.485641025641026,-0.162474224534138
+"751","disease","Symptomatic carotid plaque 1B","Vascular Smooth Muscle","higher_complexity",1265,1753,1313,0,0.764052741151978,0.0499666453140827
+"751","disease","Symptomatic carotid plaque 1B","Vascular Smooth Muscle","lower_complexity",534,1530,710.5,0,0.465140057685611,-0.116397158540814
+"826","disease","Asymptomatic carotid plaque 1A","Endothelial","higher_complexity",52,1795,1439,0.0537197076482698,0.810117407797378,0.0635165102740512
+"826","disease","Asymptomatic carotid plaque 1A","Endothelial","lower_complexity",14,1697,781.5,0.211275508627295,0.46509557210081,-0.137040791978851
+"826","disease","Asymptomatic carotid plaque 1A","Fibroblast","higher_complexity",147,1743,1422,0.0452386331744492,0.819182389937107,0.0899014186205863
+"826","disease","Asymptomatic carotid plaque 1A","Fibroblast","lower_complexity",9,1868,903,0.239425385370851,0.48265306122449,-0.152770071952938
+"826","disease","Asymptomatic carotid plaque 1A","Lymphocyte","higher_complexity",53,1593,1184,0.115942023694515,0.736176935229068,0.0241710816477981
+"826","disease","Asymptomatic carotid plaque 1A","Lymphocyte","lower_complexity",59,1591,734,0.159872102085501,0.462804878048781,-0.126609322474866
+"826","disease","Asymptomatic carotid plaque 1A","Macrophage","higher_complexity",410,2013.5,1650.5,0.0405350889195688,0.826941328839842,0.0442309236025794
+"826","disease","Asymptomatic carotid plaque 1A","Macrophage","lower_complexity",82,1630.5,761,0.19102490041405,0.470053395875847,-0.127617618481048
+"826","disease","Asymptomatic carotid plaque 1A","Pericyte","higher_complexity",15,2191,1823,0.0213583931326866,0.820272572402044,0.0359265030583258
+"826","disease","Asymptomatic carotid plaque 1A","Pericyte","lower_complexity",1,1957,930,0,0.475217169136433,-0.172874069674984
+"826","disease","Asymptomatic carotid plaque 1A","Vascular Smooth Muscle","higher_complexity",112,1526.5,1171.5,0.0581252359552309,0.748434222404645,0.0367225555233981
+"826","disease","Asymptomatic carotid plaque 1A","Vascular Smooth Muscle","lower_complexity",80,1486.5,684,0.156687095295638,0.466306722264264,-0.117282052180839
+"826","disease","Asymptomatic carotid plaque 1B","Endothelial","higher_complexity",19,2198,1877,0.0506970856804401,0.846153846153846,0.0281918426893619
+"826","disease","Asymptomatic carotid plaque 1B","Endothelial","lower_complexity",6,1435,666,0.12504301557783,0.462896695630509,-0.0985000325092874
+"826","disease","Asymptomatic carotid plaque 1B","Fibroblast","higher_complexity",76,1760.5,1421.5,0.0528304866747931,0.82720752410125,0.0863020422428486
+"826","disease","Asymptomatic carotid plaque 1B","Fibroblast","lower_complexity",5,2043,986,0.320512824691832,0.482623592755751,-0.177878712475784
+"826","disease","Asymptomatic carotid plaque 1B","Lymphocyte","higher_complexity",35,1625,1199,0.0878734630532563,0.738446411012783,0.0156046317771307
+"826","disease","Asymptomatic carotid plaque 1B","Lymphocyte","lower_complexity",41,1671,784,0.0850340118631721,0.475015812776724,-0.132747745006374
+"826","disease","Asymptomatic carotid plaque 1B","Macrophage","higher_complexity",218,2072.5,1650,0.0275336089543998,0.827281827066995,0.0553772063620255
+"826","disease","Asymptomatic carotid plaque 1B","Macrophage","lower_complexity",35,1808,836,0.0685871054884046,0.465909090909091,-0.133450819022917
+"826","disease","Asymptomatic carotid plaque 1B","Pericyte","higher_complexity",9,2277,1768,0.0282565684756264,0.815898012748406,-0.00544077551368451
+"826","disease","Asymptomatic carotid plaque 1B","Pericyte","lower_complexity",1,1620,755,0.081967213191092,0.466049382716049,-0.129827679640757
+"826","disease","Asymptomatic carotid plaque 1B","Vascular Smooth Muscle","higher_complexity",57,1873,1424,0.0568289426155388,0.772096420745069,0.0365505557057171
+"826","disease","Asymptomatic carotid plaque 1B","Vascular Smooth Muscle","lower_complexity",49,1526,700,0.152207002975047,0.466200466200466,-0.124384262662928
+"C7","control","Control disease free carotid tissue","Endothelial","higher_complexity",99,1890,1325,0,0.733542319749216,0.0269662229473036
+"C7","control","Control disease free carotid tissue","Endothelial","lower_complexity",57,1515,689,0,0.459269662921348,-0.109150736460952
+"C7","control","Control disease free carotid tissue","Lymphocyte","higher_complexity",4,2280.5,1814,0.0138389150379226,0.792109245809544,0.0185999058986052
+"C7","control","Control disease free carotid tissue","Lymphocyte","lower_complexity",6,1523.5,682.5,0,0.449725713278188,-0.130207244987709
+"C7","control","Control disease free carotid tissue","Macrophage","higher_complexity",4,1064,501,0.0603500287979841,0.473397935895769,0.00755817666348208
+"C7","control","Control disease free carotid tissue","Pericyte","higher_complexity",54,1861,1320.5,0,0.715836010543498,0.0404573314921983
+"C7","control","Control disease free carotid tissue","Pericyte","lower_complexity",9,1450,651,0,0.455411255411255,-0.114856412688582
+"C7","control","Control disease free carotid tissue","Unknown1","higher_complexity",32,2015,1534.5,0,0.748887570282086,0.0378504715178851
+"C7","control","Control disease free carotid tissue","Unknown1","lower_complexity",7,1825,865,0,0.467525496511004,-0.154980681305164
+"C7","control","Control disease free carotid tissue","Unknown2","higher_complexity",13,1834,1252,0,0.731081926203877,0.0378575529523639
+"C7","control","Control disease free carotid tissue","Unknown2","lower_complexity",6,1508.5,685.5,0.0372856069589034,0.456695503679389,-0.121360610892064
+"C7","control","Control disease free carotid tissue","Vascular Smooth Muscle","higher_complexity",59,1595,1225,0,0.749230769230769,0.038593929850585
+"C7","control","Control disease free carotid tissue","Vascular Smooth Muscle","lower_complexity",94,1395,631.5,0,0.464268684062651,-0.0962839958277277

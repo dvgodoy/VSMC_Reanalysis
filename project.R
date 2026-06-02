@@ -506,6 +506,34 @@ vsmc <- subset(obj, subset = celltype == "Vascular Smooth Muscle")
 
 vsmc$donor_condition <- paste(vsmc$donor_id, vsmc$condition2, sep = " | ")
 
+de_vsmc <- read_csv(file.path(TAB_DIR, "singlecell_DE_disease_vs_control_Vascular_Smooth_Muscle.csv"), show_col_types = FALSE)
+exclude_gene_regex <- "^(MT-|RPL|RPS|MIR|LINC|RP11|AC[0-9]|AL[0-9])"
+de_vsmc_filtered <- de_vsmc %>%
+  mutate(
+    pct_max = pmax(pct.1, pct.2),
+    pct_diff = abs(pct.1 - pct.2),
+    score = abs(avg_log2FC) *
+      (-log10(p_val_adj + 1e-300)) *
+      pct_diff
+  ) %>%
+  filter(
+    p_val_adj < 0.05,
+    abs(avg_log2FC) > 1,
+    pct_max > 0.10,
+    pct_diff > 0.05,
+    !str_detect(gene, exclude_gene_regex)
+  )
+vsmc_disease_higher_exploratory <- de_vsmc_filtered %>%
+  filter(avg_log2FC > 0) %>%
+  arrange(desc(score)) %>%
+  slice_head(n = 10) %>%
+  pull(gene)
+vsmc_control_higher_exploratory <- de_vsmc_filtered %>%
+  filter(avg_log2FC < 0) %>%
+  arrange(desc(score)) %>%
+  slice_head(n = 10) %>%
+  pull(gene)
+
 vsmc_gene_sets <- list(
   Paper_axis = c(
     "HDAC9", "MALAT1", "SMARCA4", "SERPINE2", "CD68", "LGALS3"
